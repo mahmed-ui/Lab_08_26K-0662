@@ -73,7 +73,7 @@ void updateStock(int *stock, int n){
     printSummary(stock, n);
 }
 
-int* insertItem(int *stock, int *n){
+int *insertItem(int *stock, int *n){
     int i, pos, value;
     int *newStock;
 

@@ -97,4 +97,5 @@ int main(){
         printf("Marks found at Position %d\n",position);
     }
 
+    return 0;
 }
